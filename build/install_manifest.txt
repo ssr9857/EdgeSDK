@@ -1,0 +1,3 @@
+/home/firefly/Documents/Seaway/SeawayEdgeSDK/build/release/include/edge_interface.h
+/home/firefly/Documents/Seaway/SeawayEdgeSDK/build/release/lib/libedge_sdk.so
+/home/firefly/Documents/Seaway/SeawayEdgeSDK/demo

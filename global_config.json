@@ -1,0 +1,18 @@
+{
+    "global_encode_frame_rate": 20,
+
+    "global_nvr_enable": false,
+    "global_nvr_ip": "192.168.1.38",
+    "global_nvr_port": 10800,
+    "global_nvr_user": "admin",
+    "global_nvr_password": "seaway2019",
+
+    "global_osd_enable":false,
+
+    "global_minio_server":"",
+    "global_minio_access_key":"",
+    "global_minio_secret_key":"",
+
+    "global_kafka_broker":"",
+    "global_kafka_topic":""
+}
